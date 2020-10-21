@@ -1,0 +1,13 @@
+#!/bin/bash
+#color
+
+
+
+			negro="\e[0;30m" gris="\e[1;30m"
+			azul="\e[0;34m" azulclaro="\e[1;34m"
+ 			verde="\e[0;32m" verdeclaro="\e[1;32m"
+			cyan="\e[0;36m" cyanclaro="\e[1;36m"
+			rojo="\e[0;31m" rojoclaro="\e[1;31m"
+			purpura="\e[0;35m" blanco="\e[1;37m"
+			marron="\e[0;33m" amarillo="\e[1;33m"
+echo
